@@ -164,7 +164,7 @@ footer article div {
 /*Large*/
 @media (min-width: 901px) { 
     header {
-        background-position: bottom right;
+        background-position: right;
         background-size: 50% auto;
     }
 
